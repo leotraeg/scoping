@@ -10,5 +10,7 @@ The annotated multi-sourced entity linkage dataset is sourced from sample schema
 - Category domain-specific: 3 x Orders-Customers schemas (Oracle, MySQL, SAP HANA)
 - Category domain-agnostic: 1 additional Human-Resources schema (Oracle) 
 
+![image](https://github.com/user-attachments/assets/c1fb8133-e570-4d0e-b524-11a892c4068d)
+
 # Contact
 leonard.traeger@umbc.edu for any related questions

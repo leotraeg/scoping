@@ -23,7 +23,7 @@ leonard.traeger@umbc.edu for any related questions
 ### Reference
 
 If you make advantage of the Collective Scoping method in your research, please cite the following in your manuscript:
-
+```
 @article{DBLP:journals/sncs/TraegerBK25,
   author       = {Leonard Traeger and Andreas Behrend and George Karabatis},
   title        = {Collective Scoping: Streamlining Entity Sets Towards Efficient and Effective Entity Linkages},
@@ -35,3 +35,4 @@ If you make advantage of the Collective Scoping method in your research, please 
   url          = {https://doi.org/10.1007/s42979-025-03734-7},
   doi          = {10.1007/S42979-025-03734-7}
 }
+```
